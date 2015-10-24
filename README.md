@@ -6,9 +6,9 @@ python 3
 
 #How to use
 
-1.install python 3
-2.open terminal or windows command and cd to the directory
-3.input "python WhatSize.py"
+1.  install python 3
+2.  open terminal or windows command and cd to the directory
+3.  input "python WhatSize.py"
 
 #Licence
 The MIT License (MIT)  
